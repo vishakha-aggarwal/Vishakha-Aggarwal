@@ -53,6 +53,7 @@
  <img src="https://img.shields.io/badge/Github-ffdd00?style=for-the-badge&logo=github&logoColor=black" />
  <img src="https://img.shields.io/badge/Postman-c8b8db?style=for-the-badge&logo=postman&logoColor=white" />
  <img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+ <img src = "https://img.shields.io/badge/redux-339933?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
 ## Cloud and Hosting
