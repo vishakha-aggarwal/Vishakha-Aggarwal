@@ -5,20 +5,23 @@
 ### - I’m currently working on DSA and Competitive Programming Skills.
 ### - I also love to make projects on Web Development with MERN stack.
 ### - Besides this, I have a keen interest in Blockchain Development with Ethereum and know how to build applications using Ethereum Smart Contracts.
-### - Coding Practice Handles: 
+
+## 🟣 Personal Portfolio Website
+### [http://personal-portfolio-vishakha.vercel.app/](http://personal-portfolio-vishakha.vercel.app/)
+
+## 🟠 Coding Practice Handles: 
   #### ✨[Leetcode](https://leetcode.com/vishakha-aggarwal/)   
   #### ✨[Geeks for Geeks](https://auth.geeksforgeeks.org/user/vishakhaaggarwal251/profile)
 
-
 ## 🔵 About my skills
 
-## Development
+## - Development
 <div align="inline"">
  <img src ="https://img.shields.io/badge/Ethereum%20Blockchain%20Development-orange?style=for-the-badge" />
  <img src ="https://img.shields.io/badge/-Full%20Stack%20Web%20Development-blue?style=for-the-badge" />
 </div>
 
-## Languages
+## - Languages
 <div align="inline"">
  <img src ="https://img.shields.io/badge/C-ffb703?style=for-the-badge&logo=c&logoColor=black" />
  <img src ="https://img.shields.io/badge/C++-4EA94B?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -29,7 +32,7 @@
  <img src ="https://img.shields.io/badge/Python-f9dbbd?style=for-the-badge&logo=python&logoColor=black" />
 </div>
 
-## Frameworks
+## - Frameworks
 <div align="inline">
  <img src = "https://img.shields.io/badge/Web3.Js-a0c4ff?style=for-the-badge&logo=Web3.js&logoColor=black" />
  <img src = "https://img.shields.io/badge/ReactJs-8cb369?style=for-the-badge&logo=react&logoColor=white" />
@@ -40,13 +43,13 @@
 
 </div>
 
-## Database and testing
+## - Database and testing
 <div align="inline"">
  <img src ="https://img.shields.io/badge/MySQL-ffd000?style=for-the-badge&logo=mysql&logoColor=black" />
  <img src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-## Developer Tools
+## - Developer Tools
 <div align="inline">
  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
  <img src="https://img.shields.io/badge/Git-ff8800?style=for-the-badge&logo=git&logoColor=white" />
@@ -56,7 +59,7 @@
  <img src = "https://img.shields.io/badge/redux-339933?style=for-the-badge&logo=redux&logoColor=white" />
 </div>
 
-## Cloud and Hosting
+## - Cloud and Hosting
 <div align="inline">
  <img src="https://img.shields.io/badge/Firebase-fb8b24?style=for-the-badge&logo=firebase&logoColor=white" />
  <img src="https://img.shields.io/badge/Heroku-6930c3?style=for-the-badge&logo=Heroku&logoColor=white" />
@@ -70,5 +73,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishakha-aggarwal&theme=github_dark" />
  
 ## 🟡 How to reach me🤝
-#### [LinkedIn](https://www.linkedin.com/in/vishakha-aggarwal-49b348206/)  
-#### [Twitter](https://twitter.com/Vishakh88748959) 
+#### - [LinkedIn](https://www.linkedin.com/in/vishakha-aggarwal-49b348206/)  
+#### - [Twitter](https://twitter.com/Vishakh88748959) 
+#### - [Email](mailto:vishakhaaggarwal251@gmail.com)
